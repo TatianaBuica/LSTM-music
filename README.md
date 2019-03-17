@@ -18,7 +18,7 @@ The following are the main steps followed in the application:
  
  
 **Biography**
- \n
+
 https://www.kaggle.com/wfaria/midi-music-data-extraction-using-music21 
 
 https://github.com/Skuldur/Classical-Piano-Composer/blob/master/predict.py 
